@@ -1,7 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoEduardo&show_icons=true&theme=nightowl)
+### What's up, I'm Eduardo! 
+I'm a BackEnd Developer from Brazil 🇧🇷
 
-### I'm a BackEnd Developer from Brazil 🇧🇷
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoEduardo&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirminoEduardo)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact me:
 
