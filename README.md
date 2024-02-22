@@ -1,5 +1,5 @@
 ### What's up, I'm Eduardo! 
-I'm a backend developer from Brazil 🇧🇷
+I'm a Software Engineer from Brazil 🇧🇷
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoEduardo&show_icons=true&theme=default)
