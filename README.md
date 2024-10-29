@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)))
+![Postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
 **Utilidades**
 
@@ -37,7 +37,7 @@
 <br/>
 
 <a href="https://github.com/FirminoEduardo" title="Eduardo Firmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirminoEduardo&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
