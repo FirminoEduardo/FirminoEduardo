@@ -1,66 +1,60 @@
+<!-- Contador de visitas -->
 ![](https://komarev.com/ghpvc/?username=FirminoEduardo&color=006bed)
 
-# 👋 Olá, eu sou o Eduardo Firmino!
+# 👋 Olá! Eu sou o Eduardo Lima Firmino
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software (UCSal)  
 🚀 Apaixonado por desenvolvimento backend, frontend e DevOps  
-🌱 Atualmente focado em aprimorar minhas habilidades com Java, Spring Framework e tecnologias web.
+🎯 Focado em aplicar minhas habilidades técnicas para contribuir com resultados reais
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=007396" />
-  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/C#-333333?style=flat&logo=CSharp" />
-</p>
+**Linguagens de Programação**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Bancos de Dados**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" />
-</p>
+**Frameworks e Bibliotecas**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**DevOps e Ferramentas**
-<p>
-  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Postman-333333?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/Insomnia-333333?style=flat&logo=insomnia" />
-</p>
+**Bancos de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Ambientes de Desenvolvimento**
-<p>
-  <img src="https://img.shields.io/badge/VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Eclipse-333333?style=flat&logo=eclipse-ide" />
-  <img src="https://img.shields.io/badge/IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Figma-333333?style=flat&logo=figma&logoColor=007ACC" />
-</p>
+**DevOps e Outras Ferramentas**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Projetos Principais
 
-<a href="https://github.com/FirminoEduardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirminoEduardo&theme=dracula&show_icons=true&count_private=true" />
-</a>
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **Sistema de Atendimento Bancário** | Sistema de senhas convencionais e prioritárias, com painel de múltiplos guichês. | Python, Tkinter |
+| **Blog Pessoal** | Blog minimalista para artigos de tecnologia, usando hospedagem estática. | HTML, CSS, Markdown |
+| **Cadastro de Usuários** | Aplicativo console para cadastro e busca de usuários. | C#, .NET |
+| **Sistema de Submissão de Ideias** | Plataforma web fullstack para envio e votação de ideias. | React, Node.js, Express, PostgreSQL |
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Eduardo%20Firmino-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-firmino-9353102b6/)](https://www.linkedin.com/in/eduardo-firmino-9353102b6/)
+[![Gmail](https://img.shields.io/badge/-eduf1304@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduf1304@gmail.com)](mailto:eduf1304@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/FirminoEduardo?label=Follow&style=social)](https://github.com/FirminoEduardo)
 
 ---
 
-## 📫 Onde me encontrar
+<div align="center">
+  
+  [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirminoEduardo&theme=dracula&show_icons=true)](https://github.com/FirminoEduardo)
 
-[![Linkedin](https://img.shields.io/badge/-Eduardo%20Firmino-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-firmino-9353102b6/)](https://www.linkedin.com/in/eduardo-firmino-9353102b6/)
-[![Gmail](https://img.shields.io/badge/-eduf1304@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduf1304@gmail.com)](mailto:eduf1304@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/FirminoEduardo?label=Follow&style=social)](https://github.com/FirminoEduardo)
-
----
-
-✨ Obrigado por visitar meu perfil!
+</div>
