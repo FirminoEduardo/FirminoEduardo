@@ -1,9 +1,9 @@
 <!-- Contador de visitas -->
 ![](https://komarev.com/ghpvc/?username=FirminoEduardo&color=006bed)
 
-# 👋 Olá! Eu sou o Eduardo Lima Firmino
+# Olá! Eu sou o Eduardo Lima Firmino
 
-🎓 Estudante de Engenharia de Software (UCSal)  
+🎓 Estudante de Engenharia de Software  
 🚀 Apaixonado por desenvolvimento backend, frontend e DevOps  
 🎯 Focado em aplicar minhas habilidades técnicas para contribuir com resultados reais
 
