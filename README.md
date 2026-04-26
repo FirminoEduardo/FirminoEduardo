@@ -1,27 +1,27 @@
 # Eduardo Firmino
-**Engenheiro de Dados**
+**Data Engineer**
 
-Projetando e construindo pipelines de dados escaláveis, modelagem eficiente e arquiteturas de integração para transformar dados brutos em ativos estratégicos.
-
----
-
-## Stack Tecnológico
-
-* **Linguagens & Processamento:** Python, SQL, Java
-* **Bancos de Dados & Armazenamento:** PostgreSQL, MongoDB
-* **Infraestrutura, Cloud & DevOps:** Microsoft Azure, Docker, Linux, Git
+Designing and building scalable data pipelines, efficient data modeling, and integration architectures to transform raw data into strategic assets.
 
 ---
 
-## Projetos em Destaque
+## Tech Stack
+
+* **Languages & Processing:** Python, SQL, Java
+* **Databases & Storage:** PostgreSQL, MongoDB
+* **Infrastructure, Cloud & DevOps:** Microsoft Azure, Docker, Linux, Git
+
+---
+
+## Featured Projects
 
 * **[MacroEcon Data Tracker](#)**
-  Arquitetura ponta a ponta para extração, limpeza e carga de dados de fontes externas em um Data Warehouse. O pipeline integra dados macroeconômicos e de mercado financeiro para análises estruturadas.
+  End-to-end architecture for extracting, cleaning, and loading data from external sources into a Data Warehouse. The pipeline integrates macroeconomic and financial market data for structured analysis.
   *Stack:* Python, Microsoft Azure, GDELT, yfinance.
 
 ---
 
-## Contato
+## Contact
 
 * **LinkedIn:** [eduardo-firmino](https://www.linkedin.com/in/eduardo-firmino-9353102b6/)
 * **Email:** [eduf1304@gmail.com](mailto:eduf1304@gmail.com)
